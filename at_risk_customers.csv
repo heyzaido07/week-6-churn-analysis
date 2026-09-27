@@ -1,0 +1,157 @@
+CustomerID,Contract,InternetService,TenureMonths,MonthlyCharges,RiskPercent
+C-1463,Month-to-month,Fiber optic,4,96.49,88.6
+C-1166,Month-to-month,Fiber optic,8,95.34,86.8
+C-1630,Month-to-month,Fiber optic,10,95.95,86.1
+C-0196,Month-to-month,Fiber optic,7,90.84,85.7
+C-1351,Month-to-month,Fiber optic,5,87.38,85.5
+C-0975,Month-to-month,Fiber optic,11,87.25,82.8
+C-0674,Month-to-month,Fiber optic,7,95.4,80.3
+C-0750,Month-to-month,Fiber optic,12,82.04,80.3
+C-0117,Month-to-month,Fiber optic,3,87.99,79.1
+C-0858,Month-to-month,Fiber optic,5,87.55,77.9
+C-0838,Month-to-month,Fiber optic,15,79.9,77.3
+C-1880,Month-to-month,Fiber optic,8,89.04,74.7
+C-0818,Month-to-month,Fiber optic,8,87.84,73.6
+C-1308,Month-to-month,Fiber optic,18,74.43,72.9
+C-1996,Month-to-month,Fiber optic,1,52.63,72.6
+C-0111,Month-to-month,Fiber optic,20,99.1,71.9
+C-1809,Month-to-month,Fiber optic,7,82.43,71.6
+C-1944,Month-to-month,No internet,3,51.2,67.0
+C-0065,Month-to-month,Fiber optic,30,97.34,66.5
+C-0199,Month-to-month,Fiber optic,25,68.03,64.4
+C-0300,Month-to-month,Fiber optic,2,62.29,63.7
+C-1022,Month-to-month,Fiber optic,6,62.99,63.7
+C-1745,Month-to-month,Fiber optic,16,79.35,63.2
+C-1616,Month-to-month,Fiber optic,13,74.25,62.5
+C-0814,Month-to-month,Fiber optic,21,79.08,62.4
+C-0353,Month-to-month,Fiber optic,22,60.08,61.7
+C-1439,Month-to-month,Fiber optic,23,61.64,61.6
+C-1827,Month-to-month,Fiber optic,8,65.55,60.8
+C-1631,Month-to-month,Fiber optic,42,83.97,60.3
+C-1741,Month-to-month,Fiber optic,32,89.21,59.9
+C-0087,One year,Fiber optic,8,80.62,59.8
+C-1397,Month-to-month,Fiber optic,45,86.86,59.7
+C-1517,Month-to-month,Fiber optic,35,72.72,58.9
+C-0995,Month-to-month,Fiber optic,39,96.86,58.7
+C-0003,Month-to-month,Fiber optic,48,88.13,58.6
+C-1937,Month-to-month,Fiber optic,27,79.89,57.5
+C-0792,Month-to-month,Fiber optic,33,67.19,57.3
+C-1434,Month-to-month,Fiber optic,41,77.49,57.2
+C-1687,Month-to-month,Fiber optic,31,64.77,57.0
+C-0532,Month-to-month,Fiber optic,12,59.26,56.9
+C-0253,Month-to-month,Fiber optic,14,66.46,56.5
+C-1670,Month-to-month,Fiber optic,53,91.36,56.4
+C-0332,Month-to-month,Fiber optic,27,58.29,56.4
+C-0929,Month-to-month,Fiber optic,31,82.6,56.2
+C-0661,Month-to-month,Fiber optic,13,82.6,55.3
+C-0901,One year,Fiber optic,1,83.79,55.1
+C-0877,Month-to-month,Fiber optic,39,70.25,54.3
+C-1366,One year,Fiber optic,2,88.34,54.2
+C-0573,One year,Fiber optic,21,107.59,54.2
+C-1802,Month-to-month,Fiber optic,34,82.95,53.7
+C-0510,One year,Fiber optic,18,83.75,53.5
+C-1164,Month-to-month,Fiber optic,39,88.22,53.5
+C-1106,One year,Fiber optic,14,97.61,53.4
+C-0970,One year,Fiber optic,3,83.13,53.4
+C-1197,Month-to-month,Fiber optic,52,85.95,53.3
+C-1903,Month-to-month,Fiber optic,52,85.18,53.3
+C-1424,Month-to-month,Fiber optic,49,81.63,53.1
+C-1551,One year,Fiber optic,21,86.47,53.0
+C-0191,Month-to-month,Fiber optic,50,82.61,53.0
+C-1249,Month-to-month,Fiber optic,24,68.26,52.8
+C-0937,Month-to-month,Fiber optic,12,76.41,52.1
+C-0206,Month-to-month,Fiber optic,20,86.96,52.0
+C-0619,Two year,Fiber optic,5,93.18,52.0
+C-1281,Month-to-month,Fiber optic,54,85.49,51.6
+C-1019,One year,Fiber optic,3,80.27,51.4
+C-0020,Month-to-month,Fiber optic,33,82.87,51.2
+C-0263,Month-to-month,Fiber optic,22,68.6,51.1
+C-1009,Month-to-month,Fiber optic,53,83.82,51.1
+C-0189,Month-to-month,Fiber optic,18,57.89,50.5
+C-1070,One year,Fiber optic,1,80.14,49.7
+C-1293,One year,Fiber optic,32,95.92,49.7
+C-0026,Month-to-month,Fiber optic,47,73.51,49.5
+C-0394,Month-to-month,Fiber optic,44,93.7,49.2
+C-0386,Month-to-month,DSL,9,60.34,49.1
+C-0997,Month-to-month,Fiber optic,38,80.33,49.0
+C-0575,Month-to-month,Fiber optic,1,57.31,48.7
+C-0834,Month-to-month,DSL,11,62.72,48.7
+C-0516,Month-to-month,DSL,8,58.42,48.6
+C-0434,Month-to-month,Fiber optic,10,68.8,48.5
+C-0962,Month-to-month,Fiber optic,30,93.19,48.2
+C-1806,Month-to-month,DSL,4,50.06,46.7
+C-0321,Month-to-month,Fiber optic,24,83.45,46.7
+C-0617,Month-to-month,Fiber optic,18,75.71,46.4
+C-1279,Two year,Fiber optic,1,79.53,46.1
+C-0258,Two year,Fiber optic,8,112.36,46.0
+C-1515,Month-to-month,Fiber optic,18,74.42,45.7
+C-0602,Month-to-month,Fiber optic,57,104.79,45.6
+C-1538,Month-to-month,No internet,8,24.42,45.5
+C-1963,Month-to-month,DSL,11,57.37,45.4
+C-1970,Month-to-month,DSL,12,58.76,45.2
+C-0119,Month-to-month,Fiber optic,18,73.0,45.1
+C-1803,Month-to-month,Fiber optic,33,90.87,43.7
+C-0052,Month-to-month,Fiber optic,15,67.64,43.6
+C-0426,Month-to-month,DSL,15,78.93,43.3
+C-1548,Month-to-month,Fiber optic,62,82.1,42.9
+C-1553,One year,Fiber optic,39,93.92,42.5
+C-1608,Month-to-month,Fiber optic,43,81.79,42.1
+C-0830,Month-to-month,DSL,3,61.08,42.1
+C-0225,Month-to-month,Fiber optic,52,92.82,41.9
+C-1805,Month-to-month,No internet,10,21.24,41.8
+C-1968,Month-to-month,Fiber optic,34,88.89,41.6
+C-0283,Month-to-month,Fiber optic,49,82.92,41.1
+C-0608,Month-to-month,Fiber optic,38,68.38,41.1
+C-0350,Month-to-month,Fiber optic,12,59.48,40.9
+C-0030,Month-to-month,Fiber optic,32,63.11,39.5
+C-1123,Month-to-month,No internet,20,30.48,39.5
+C-0233,Month-to-month,DSL,2,79.32,38.9
+C-0314,Month-to-month,DSL,21,59.59,38.5
+C-1363,Month-to-month,DSL,26,65.6,38.3
+C-1719,Month-to-month,DSL,30,70.69,38.2
+C-0341,Month-to-month,Fiber optic,46,78.92,37.8
+C-0854,One year,Fiber optic,18,83.05,37.6
+C-1104,Two year,Fiber optic,11,78.77,37.2
+C-0884,One year,DSL,12,86.99,37.0
+C-1043,One year,Fiber optic,30,73.5,37.0
+C-0696,One year,Fiber optic,19,83.3,36.8
+C-0397,One year,Fiber optic,4,83.67,36.7
+C-1973,Month-to-month,Fiber optic,50,81.61,36.5
+C-1617,Month-to-month,Fiber optic,58,91.1,36.4
+C-0833,Month-to-month,Fiber optic,33,78.55,36.1
+C-1002,Month-to-month,Fiber optic,54,85.36,35.8
+C-0742,Month-to-month,Fiber optic,55,62.58,35.8
+C-1256,One year,Fiber optic,7,61.67,35.7
+C-0700,One year,Fiber optic,7,66.31,35.7
+C-0664,Month-to-month,DSL,15,70.5,35.0
+C-0294,Month-to-month,DSL,24,76.74,34.8
+C-1113,Month-to-month,DSL,14,68.76,34.6
+C-0444,Month-to-month,Fiber optic,36,55.9,34.5
+C-0414,Two year,Fiber optic,10,96.03,34.2
+C-1595,Month-to-month,Fiber optic,51,73.49,33.9
+C-1325,Month-to-month,Fiber optic,63,69.3,33.9
+C-0788,One year,Fiber optic,50,93.41,33.7
+C-1832,Month-to-month,Fiber optic,69,76.74,33.5
+C-1744,One year,Fiber optic,2,56.76,33.5
+C-1418,One year,Fiber optic,32,94.41,33.5
+C-1884,Month-to-month,Fiber optic,61,85.05,33.5
+C-0587,Month-to-month,Fiber optic,50,71.23,33.5
+C-0063,Month-to-month,Fiber optic,27,66.1,33.4
+C-1734,Month-to-month,Fiber optic,63,67.34,32.7
+C-1598,Month-to-month,Fiber optic,53,78.78,32.4
+C-0807,Month-to-month,DSL,40,73.95,32.3
+C-0941,Month-to-month,Fiber optic,50,69.62,32.3
+C-0801,One year,Fiber optic,1,71.37,31.8
+C-1748,Month-to-month,DSL,28,56.41,31.3
+C-0987,Month-to-month,Fiber optic,45,66.53,31.3
+C-1716,Month-to-month,Fiber optic,64,85.25,31.3
+C-1559,Month-to-month,Fiber optic,72,95.71,31.2
+C-1230,One year,Fiber optic,21,76.02,31.1
+C-0642,Month-to-month,Fiber optic,66,68.29,31.1
+C-1767,Month-to-month,DSL,37,67.19,31.1
+C-0385,Two year,Fiber optic,3,101.58,31.0
+C-1474,One year,Fiber optic,15,63.71,30.9
+C-0992,One year,Fiber optic,40,75.89,30.6
+C-1313,Month-to-month,Fiber optic,57,75.89,30.6
+C-1728,Month-to-month,Fiber optic,42,80.98,30.5
+C-0210,Month-to-month,Fiber optic,57,79.01,30.1
